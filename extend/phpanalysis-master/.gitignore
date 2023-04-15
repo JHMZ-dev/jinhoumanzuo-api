@@ -1,0 +1,10 @@
+.DS_Store
+*.bak.*
+*-bak-*
+*_bak.*
+*.test.*
+*-test-*
+*_test.*
+*.swo
+old/
+mydic.txt
